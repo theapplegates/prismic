@@ -1,6 +1,3 @@
-[build]
-  publish = "public"
+
 [template.environment]
  API_KEY = "MC5YdEZhOGhJQUFDSUFhbEdD.77-977-977-977-9M--_vWxK77-977-977-977-9RArvv73vv73vv71UdHnvv70L77-977-977-9QUZJ77-9Ql3vv70"
-[[plugins]]
- package = "netlify-plugin-gatsby-cache"
