@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
-  title: 'Living Life', // Navigation and Site Title
-  titleAlt: 'Life', // Title for JSONLD
-  description: 'Living life and writing some things down alone the way.',
-  headline: 'I blog' // Headline for schema.org JSONLD
-  url: 'https://prismic-applegate-9254.netlify.app', //Domain of your site. No trailing slash!
+  title: 'Gatsby Starter - Prismic.io', // Navigation and Site Title
+  titleAlt: 'Gatsby Prismic.io', // Title for JSONLD
+  description: 'A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.',
+  headline: 'Writing and publishing content for LekoArts', // Headline for schema.org JSONLD
+  url: 'https://prismic-applegate-9254.netlify.app', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   logo: '/logos/logo-1024.png', // Used for SEO
   ogLanguage: 'en_US', // Facebook Language
