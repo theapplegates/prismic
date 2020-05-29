@@ -4,7 +4,7 @@ module.exports = {
   titleAlt: 'Life', // Title for JSONLD
   description: 'Living life and writing some things down alone the way.',
   headline: 'I blog' // Headline for schema.org JSONLD
-  url: 'https://prismic-applegate-9254.netlify.app', //Domain of your site. No trailing slash!
+  url: 'prismic-applegate-9254.netlify.app', //Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   logo: '/logos/logo-1024.png', // Used for SEO
   ogLanguage: 'en_US', // Facebook Language
