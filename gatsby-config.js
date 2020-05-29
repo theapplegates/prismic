@@ -32,7 +32,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-prismic',
       options: {
-        repositoryName: 'prismic-applegate-9254.netlify.app',
+        repositoryName: 'prismic',
         accessToken: `${process.env.API_KEY}`,
         // Get the correct URLs in blog posts
         linkResolver: () => (post) => `/${post.uid}`,
